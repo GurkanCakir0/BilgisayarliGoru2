@@ -3,4 +3,4 @@
 
 These filters;
 
-Average Filter - Box Blur /n Median Filter /n Gaussian Filter /n Prewitt Filter /n Sobel Filter /n Laplace Filter /n Face Blur Filter
+Average Filter - Box Blur /// Median Filter /// Gaussian Filter /// Prewitt Filter /// Sobel Filter /// Laplace Filter /// Face Blur Filter
